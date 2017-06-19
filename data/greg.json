@@ -147,5 +147,10 @@
       "months":"(6 months)"
     }]
   }],
-  "certification": "ISTQB-FL - International Software Testing Qualifications Board - Foundation Level"
+  "certification": [
+    {
+      "title": "ISTQB-FL - International Software Testing Qualifications Board - Foundation Level",
+      "institution":"ISTQB"
+    }
+  ]
 }
