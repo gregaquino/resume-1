@@ -69,8 +69,8 @@
         "role":"Software Tester",
         "startDate":"2017",
         "endDate":"Present",
-        "months":"(1 month)",
-      },
+        "months":"(1 month)"
+      }
     ]
   },{
     "company": "Exist Sotware Labs, Inc.",
@@ -85,8 +85,8 @@
       "role":"QA Project Lead",
       "startDate":"2016",
       "endDate":"2017",
-      "months":"(8 months)",
-    },]
+      "months":"(8 months)"
+    }]
   },{
     "company": "Medcurial, Inc.",
     "position": "Software Test Engineer",
@@ -101,14 +101,13 @@
       "startDate":"2014",
       "endDate":"2016",
       "months":"(2 years and 8 months)",
-
       "name":"MedCheck",
       "description":"MedCheck is an online practice management software that provides doctors with appointment scheduler and electronic management record services and other healthcare management services.",
       "role":"Software Test Engineer",
       "startDate":"2015",
       "endDate":"2016",
-      "months":"(3 months)",
-    },]
+      "months":"(3 months)"
+    }]
   },{
     "company": "PLDT",
     "position": "Quality Analyst",
@@ -129,8 +128,8 @@
       "role":"Quality Anayst",
       "startDate":"2013",
       "endDate":"20173",
-      "months":"(3 months)",
-    },]
+      "months":"(3 months)"
+    }]
   },{
     "company": "Safeway Philtech, Inc.",
     "position": "Test Analyst",
@@ -144,9 +143,8 @@
       "role":"Test Analyst",
       "startDate":"2013",
       "endDate":"2013",
-      "months":"(6 months)",
-    },]
-  }
-  ],
-  "certification": "ISTQB-FL - International Software Testing Qualifications Board - Foundation Level" []
+      "months":"(6 months)"
+    }]
+  }],
+  "certification": "ISTQB-FL - International Software Testing Qualifications Board - Foundation Level"
 }
