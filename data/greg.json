@@ -100,8 +100,9 @@
       "role":"Software Test Engineer",
       "startDate":"2014",
       "endDate":"2016",
-      "months":"(2 years and 8 months)",
-      "name":"MedCheck",
+      "months":"(2 years and 8 months)"
+      
+    }, {"name":"MedCheck",
       "description":"MedCheck is an online practice management software that provides doctors with appointment scheduler and electronic management record services and other healthcare management services.",
       "role":"Software Test Engineer",
       "startDate":"2015",
@@ -121,8 +122,8 @@
       "role":"Quality Analyst",
       "startDate":"2013",
       "endDate":"2013",
-      "months":"(3 months)",
-
+      "months":"(3 months)"
+    }, {
       "name":"PPGIS",
       "description":"PPGIS (Power of PLDT Geographic Information System) is a web-based application that enables the user to locate provinces, municipalities and barangays using Geographic Information system.",
       "role":"Quality Anayst",
