@@ -2,7 +2,7 @@
   "basics": {
     "name": "Greg Aquino III",
     "label": "Software Tester",
-    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAy-AAAAJDRjYzczNWUwLWI0MjctNDBiYS05NzQyLTE4NjM5MTY0Mjc3NA.jpg",
+    "picture": "https://media.licdn.com/media/p/8/005/095/163/37256de.jpg",
     "email": "greg.aquino@flightdigitalmedia.com",
     "phone": "+639985544136"
   },
@@ -29,13 +29,13 @@
         "name": "Manual Testing",
         "number_of_years": 4.9
       }, {
-        "name": "Moble Testing",
+        "name": "Mobile Testing",
         "number_of_years": 1
       }, {
         "name": "Regression Testing",
         "number_of_years": 4.9
       }, {
-        "name": "Requiremnts Analysis",
+        "name": "Requirements Analysis",
         "number_of_years": 4.9
       }, {
         "name": "Test Case Generation",
@@ -48,19 +48,19 @@
       "category": "Application Support",
       "technologies":[{
         "name": "UAT Support",
-        "number_of_years": "2"
+        "number_of_years": 2
       },{
         "name": "Production Support",
-        "number_of_years": "2"
+        "number_of_years": 2
       }]
     }
   ],
   "work": [{
     "company": "Flight Digital Media",
     "position": "QA Manager",
-    "startDate": "June 2017",
+    "startDate": "Jun 2017",
     "endDate": "Present",
-    "summary": "Manages the company's QA standards and process. ",
+    "summary": "Manages the overall Quality and Testing approach of the Company Projects and implements Process Impovements.",
     "highlights": [],
     "projects":[
       {
@@ -73,70 +73,80 @@
       },
     ]
   },{
-    "company": "Exist Software Labs, Inc.",
-    "position": "QA Project Lead",
-    "startDate": "October 2016",
+    "company": "Exist Sotware Labs, Inc.",
+    "position": "QA Engineer",
+    "startDate": "Oct 2016",
     "endDate": "Jun 2017",
-    "summary": "Support core and new business initiatives through the development of new and novel web services for e-commerce and mobile ads. Build web application for promotions, new mobile services and frontend javascript application through secured API request. Develop responsive frontend applications for web and mobile through new design framework like material design and bootstrap. Support in developing event applications like mobile raffle slotmachine for client events with the use of a javascript framework Cocos2d-js.",
+    "summary": "Leads the entire team as a QA project lead and as a scrum master.",
     "highlights": [],
     "projects":[{
-      "name":"Mobile Slotmachine",
-      "description":"A slotmachine that draws mobile number raffle entries randomly. Winners are predrawn and this is use to present the winning mobile number to the event, which makes the crowd more excited and the event more exciting as we reveal each number.",
-      "role":"Main Developer",
-      "startDate":"2015",
-      "endDate":"",
-      "months":"(3 months)",
-      "technologies":"PHP, Lumen, Mysql, Cocos2d-js"
-    },{
-      "name":"Hashtag Service",
-      "description":"A social media application for facebook and twitter users, and use for client promos and campaign. Users will have to post to facebook page wall or tweet with a certain hashtag string. The system will get the entries and reply with links to claim their rewards.",
-      "role":"Main Developer",
-      "startDate":"2015",
-      "endDate":"",
-      "months":"(6 months)",
-      "technologies":"PHP, Laravel, Mysql, AngularJS, Facebook, Twitter"
-    },{
-      "name":"Newsbuzz CMS",
-      "description":"A tool use to broadcast SMS message to a number of subscriber base. This is basically the content management system use to trigger the third party API who pushes the message to its subscribers. Users will receive a message with a link to the video page and let them play and watch the clip.",
-      "role":"Main Developer",
-      "startDate":"2015",
-      "endDate":"",
-      "months":"(6 months)",
-      "technologies":"Python, Django, PostgreSQL, Rest Framework, AngularJS"
-    },{
-      "name":"GethostedCheap",
-      "description":"a facebook application that let users register and buy a hosting account for as low as 50 pesos using the facebook mobile payment platform. Target clients are those people who do not have credit cards specifically students. The app will give users a 200MB storage, 1GB/month bandwidth running on Linux CentOs 64bit with PHP and Mysql, plus a free subdomain on gethosted.cheap.",
-      "role":"Main Developer",
-      "startDate":"2014",
-      "endDate":"",
-      "months":"(3 months)",
-      "technologies":"Nodejs, Mysql, AngularJS, Facebook"
-    },{
-      "name":"Battlemob",
-      "description":"HTML5 game application that let users register through their facebook account, subscribe to a service to earn tokens and play one of the 3 games. User will gain raffle entries for every 10 points earned for a chance to win cellphone loads and other real prizes.",
-      "role":"Main Developer",
-      "startDate":"2012",
-      "endDate":"2014",
-      "months":"(24 months)",
-      "technologies":"PHP, Yii, Mysql, Nodejs, Cocos2d-js"
-    }]
+      "name":"ERX",
+      "description":"ERX is a hospital information system and clinical application that is based and customized to the client’s needs.",
+      "role":"QA Project Lead",
+      "startDate":"2016",
+      "endDate":"2017",
+      "months":"(8 months)",
+    },]
   },{
-    "company": "Medcural Inc.",
+    "company": "Medcurial, Inc.",
     "position": "Software Test Engineer",
     "startDate": "Feb 2014",
     "endDate": "Oct 2016",
-    "summary": "Develop web applications to support in-house and client projects. Maintain application support and develop new modules for the Department of Trade and Industry Website.",
+    "summary": "Performs agile software testing and acts as a project trainor and project presentor for the clients.",
     "highlights": [],
-    "projects":[]
+    "projects":[{
+      "name":"Medcurial",
+      "description":"Medcurial is a web-based electronic management records and practice management system for hospitals and clinics.",
+      "role":"Software Test Engineer",
+      "startDate":"2014",
+      "endDate":"2016",
+      "months":"(2 years and 8 months)",
+
+      "name":"MedCheck",
+      "description":"MedCheck is an online practice management software that provides doctors with appointment scheduler and electronic management record services and other healthcare management services.",
+      "role":"Software Test Engineer",
+      "startDate":"2015",
+      "endDate":"2016",
+      "months":"(3 months)",
+    },]
   },{
-    "company": "American Data Exchange Corporation",
-    "position": "PHP Developer",
-    "startDate": "Apr 2009",
-    "endDate": "Jul 2010",
-    "summary": "Maintain and develop new modules of an existing web applications for a US client such as UHS Fax application, Statefarm Bank websites and other DCSI applications.",
+    "company": "PLDT",
+    "position": "Quality Analyst",
+    "startDate": "Sept 2013",
+    "endDate": "Dec 2013",
+    "summary": "Conducted on-site stress and performance testing.",
     "highlights": [],
-    "projects":[]
+    "projects":[{
+      "name":"Clarity",
+      "description":"Clarity provides integrated solutions for process automation and management, including operational support systems and network performance management.",
+      "role":"Quality Analyst",
+      "startDate":"2013",
+      "endDate":"2013",
+      "months":"(3 months)",
+
+      "name":"PPGIS",
+      "description":"PPGIS (Power of PLDT Geographic Information System) is a web-based application that enables the user to locate provinces, municipalities and barangays using Geographic Information system.",
+      "role":"Quality Anayst",
+      "startDate":"2013",
+      "endDate":"20173",
+      "months":"(3 months)",
+    },]
+  },{
+    "company": "Safeway Philtech, Inc.",
+    "position": "Test Analyst",
+    "startDate": "Feb 2013",
+    "endDate": "Aug 2013",
+    "summary": "Translated high-level business reqirements and troubleshooted errors from all testing environments.",
+    "highlights": [],
+    "projects":[{
+      "name":"Workbrain",
+      "description":"Workbrain is a fully integrated total workforce management platform designed for companies with large, complex workforces. Designed to interface with all major payroll, HR, ERP, and other software vendors, the product integrates seamlessly into an organization’s complex systems environment.",
+      "role":"Test Analyst",
+      "startDate":"2013",
+      "endDate":"2013",
+      "months":"(6 months)",
+    },]
   }
   ],
-  "certification": []
+  "certification": "ISTQB-FL - International Software Testing Qualifications Board - Foundation Level" []
 }
