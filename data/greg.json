@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Greg Aquino III",
-    "label": "QA Manager",
+    "label": "Software Tester",
     "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAy-AAAAJDRjYzczNWUwLWI0MjctNDBiYS05NzQyLTE4NjM5MTY0Mjc3NA.jpg",
     "email": "greg.aquino@flightdigitalmedia.com",
     "phone": "+639985544136"
@@ -15,77 +15,68 @@
   }],
   "skills": [
     {
-      "category": "Programming Languages",
+      "category": "Software Testing",
       "technologies":[{
-        "name": "PHP",
-        "number_of_years": 7
+        "name": "Agile Testing",
+        "number_of_years": 3.4
       }, {
-        "name": "Python",
-        "number_of_years": 2
+        "name": "Defect/Bug Tracking",
+        "number_of_years": 4.9
       }, {
-        "name": "Javascript",
-        "number_of_years": 7
-      }]
-    },{
-      "category": "Front-end Frameworks",
-      "technologies":[{
-        "name": "AngularJS v1",
-        "number_of_years": 3
-      },{
-        "name": "ReactJs",
-        "number_of_years": "0.5"
-      }]
-    },{
-      "category": "Back-end Frameworks",
-      "technologies":[{
-        "name": "Laravel",
-        "number_of_years": 3
+        "name": "Functional Testing",
+        "number_of_years": 4.9
       }, {
-        "name": "Django",
+        "name": "Manual Testing",
+        "number_of_years": 4.9
+      }, {
+        "name": "Moble Testing",
         "number_of_years": 1
+      }, {
+        "name": "Regression Testing",
+        "number_of_years": 4.9
+      }, {
+        "name": "Requiremnts Analysis",
+        "number_of_years": 4.9
+      }, {
+        "name": "Test Case Generation",
+        "number_of_years": 4.9
+      }, {
+        "name": "User Acceptance Testing",
+        "number_of_years": 3.4
       }]
     },{
-      "category": "Databases",
+      "category": "Application Support",
       "technologies":[{
-        "name": "MySql",
-        "number_of_years": 7
+        "name": "UAT Support",
+        "number_of_years": "2"
       },{
-        "name": "PostgreSQL",
-        "number_of_years": 1
+        "name": "Production Support",
+        "number_of_years": "2"
       }]
-    }
+    },
   ],
   "work": [{
     "company": "Flight Digital Media",
-    "position": "Backend Developer",
-    "startDate": "July 2015",
+    "position": "QA Manager",
+    "startDate": "June 2017",
     "endDate": "Present",
-    "summary": "Build RESTful web services to support mobile applications for Android and IOS. Help in improving development standards for web applications. Develop mobile first web applications with the use of latest design frameworks. Lead in developing new modules and customization for ecommerce portal using prestashop as a tool.",
+    "summary": "Manages the company's QA standards and process. ",
     "highlights": [],
     "projects":[
       {
-        "name":"Coca-Cola D2C Ecommerce",
-        "description":"An ecommerce application that enables consumer to order bulk coca-cola products via web. Our main task is to develop new modules and features as well as full customization of the site.",
-        "role":"Lead Developer",
-        "startDate":"2016",
+        "name":"Zukii",
+        "description":"Zukii is the very first m-commerce app that provides a whole new mobile shopping experience that connects customers to top-notch and favorite brands.",
+        "role":"Software Tester",
+        "startDate":"2017",
         "endDate":"Present",
-        "months":"(18 months)",
-        "technologies":"PHP, MySql, Prestashop"
-      },{
-        "name":"Coca-Cola Happy Shopmate RESTAPI and Portal",
-        "description":"A backend API that supports the android and ios application reward system app. This application has bunch of features which includes Coupons, NFC, Qrcode and Beacon detection which allow users to redeem and win instant prizes. ",
-        "role":"Lead Developer",
-        "startDate":"2015",
-        "endDate":"Present",
-        "months":"(24 months)",
-        "technologies":"PHP, MySql, Silex, AngularJS"
-      }
+        "months":"(1 month)",
+      },
     ]
   },{
-    "company": "Rising Tide Mobile Entertainment",
-    "position": "Application Developer",
-    "startDate": "July 2012",
-    "endDate": "Jun 2015",
+    "company": "Exist Software Labs, Inc.",
+    "position": "QA Project Lead",
+    "startDate": "October 2016",
+    "endDate": "Jun 2017",
     "summary": "Support core and new business initiatives through the development of new and novel web services for e-commerce and mobile ads. Build web application for promotions, new mobile services and frontend javascript application through secured API request. Develop responsive frontend applications for web and mobile through new design framework like material design and bootstrap. Support in developing event applications like mobile raffle slotmachine for client events with the use of a javascript framework Cocos2d-js.",
     "highlights": [],
     "projects":[{
@@ -130,10 +121,10 @@
       "technologies":"PHP, Yii, Mysql, Nodejs, Cocos2d-js"
     }]
   },{
-    "company": "ePLDT, Inc.",
-    "position": "Application Developer",
-    "startDate": "Aug 2010",
-    "endDate": "Jan 2012",
+    "company": "Medcural Inc.",
+    "position": "Software Test Engineer",
+    "startDate": "Feb 2014",
+    "endDate": "Oct 2016",
     "summary": "Develop web applications to support in-house and client projects. Maintain application support and develop new modules for the Department of Trade and Industry Website.",
     "highlights": [],
     "projects":[]
